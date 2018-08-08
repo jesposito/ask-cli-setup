@@ -5,7 +5,7 @@
 
 ## Alexa Skill Building - Prerequisites
 
-Alexa provides capabilities, or **skills**, that enable customers to create a more personalized experience. There are now tens of thousands of skills from companies like Starbucks, Uber, and Capital One as well as other innovative designers and developers.
+Alexa provides capabilities, or **skills**, that enable customers to add new interactivity to their devices. There are now tens of thousands of skills from companies like Starbucks, Uber, and Capital One as well as other innovative designers and developers.
 
 Building a skill is easy, using the Alexa Skills Kit (ASK) - a collection of self-service APIs, tools, documentation, and code samples that makes it fast and easy for you to add skills to Alexa. ASK enables designers, developers, and brands to build engaging skills and reach customers through the tens of millions of Alexa-enabled devices. 
 
